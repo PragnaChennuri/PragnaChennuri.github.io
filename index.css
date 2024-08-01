@@ -25,8 +25,8 @@ body .nav-bar ul {
 body .nav-bar ul li a {
   color: black;
   text-decoration: none;
-  font-size: x-large;
-  font-weight: bolder;
+  font-size: large;
+  font-weight: bold;
 }
 body .introduction {
   justify-content: center;
@@ -68,8 +68,7 @@ body .contact-info {
 body .contact-info .contact-sum {
   color: black;
   text-decoration: none;
-  font-size: x-large;
-  font-weight: bolder;
+  font-size: large;
   text-align: center;
 }
 body .contact-info ul {
@@ -81,11 +80,10 @@ body .contact-info ul {
 body .contact-info ul li {
   color: black;
   text-decoration: none;
-  font-size: x-large;
-  font-weight: bolder;
+  font-size: large;
 }
 body .contact-info ul li a {
   color: black;
   text-decoration: none;
-  font-size: x-large;
-}/*# sourceMappingURL=main_page.css.map */
+  font-size: large;
+}/*# sourceMappingURL=index.css.map */
