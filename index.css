@@ -38,8 +38,8 @@ body .introduction {
   margin: 5%;
 }
 body .introduction .my_img {
-  width: 424px;
-  height: 432px;
+  width: 100%;
+  height: 150%;
   border-radius: 70%;
   border: 0.5rem solid white;
 }
